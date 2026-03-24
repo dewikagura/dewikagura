@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio | Samsul Arifin</title>
+  <title>Portfolio | Dewi Kagura</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -164,7 +164,7 @@
   </main>
 
   <footer class="footer">
-    <p>&copy; 2025 Samsul Arifin. Dibuat dengan ❤️ di Indonesia</p>
+    <p>&copy; 2025 Dewi Kagura. Dibuat dengan ❤️ di Indonesia</p>
   </footer>
 
   <button id="toggle-dark" class="dark-btn"><i class="fas fa-moon"></i> Dark</button>
